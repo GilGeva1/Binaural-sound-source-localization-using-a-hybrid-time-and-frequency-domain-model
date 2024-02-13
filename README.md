@@ -1,4 +1,4 @@
-## <b>Webpage template</b>
+## <b>Abstract</b>
 
 Sound source localization plays a foundational role in auditory perception, enabling both human and machines to determine the sound source location. Traditional sound localization methods often rely on manually crafted features and simplified conditions, which limit their applicability in real-world situations.
 
@@ -16,5 +16,3 @@ This level of accuracy is of paramount importance for a wide range of applicatio
 
 
 In conclusion, as the field of sound source localization continues to progress, this research contributes to a deeper understanding of auditory perception and offers practical applications within healthcare scenarios.
-
-(GITHUB_USERNAME.github.io/REPO_NAME).
