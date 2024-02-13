@@ -40,3 +40,13 @@ In conclusion, as the field of sound source localization continues to progress, 
 
 [ICASSP_2024.pdf](https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/files/14270370/ICASSP_2024.5.pdf)
 
+## <b>Cite</b>
+
+@article{geva2024binaural,
+  title={Binaural sound source localization using a hybrid time and frequency domain model},
+  author={Geva, Gil and Warusfel, Olivier and Dubnov, Shlomo and Dubnov, Tammuz and Amedi, Amir and Hel-Or, Yacov},
+  journal={arXiv preprint arXiv:2402.03867},
+  year={2024}
+}
+
+
