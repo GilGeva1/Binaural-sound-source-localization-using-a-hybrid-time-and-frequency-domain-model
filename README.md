@@ -27,6 +27,6 @@ In conclusion, as the field of sound source localization continues to progress, 
 
 <img width="397" alt="image" src="https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/74782b12-af5e-456b-b1c0-ab7f4aef4a4c">
 
-Loss Function			    <img width="427" alt="image" src="https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/b9367e20-2031-4799-92aa-c728771b7811">
+<img width="427" alt="image" src="https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/b9367e20-2031-4799-92aa-c728771b7811">
 
 
