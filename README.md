@@ -29,7 +29,4 @@ In conclusion, as the field of sound source localization continues to progress, 
 
 Loss Function			    <img width="427" alt="image" src="https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/b9367e20-2031-4799-92aa-c728771b7811">
 
-𝐿𝑜𝑠𝑠=1/𝑛(∑_(𝑖=1)^𝑛▒〖‖𝑥_𝑖−〖𝑥^′〗_𝑖 ‖_2+180/𝜋 arccos⁡(∑_(𝑖=1)^𝑛▒〖(𝑥_𝑖 ) ̂∙〗〗 (〖𝑥^′〗_𝑖 ) ̂))
-
-![image](https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/c281c11b-2a92-4a05-823c-911a7b31963a)
 
