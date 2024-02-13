@@ -20,3 +20,13 @@ In conclusion, as the field of sound source localization continues to progress, 
 ## <b>Recording Methods</b>
 
 <img width="592" alt="image" src="https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/d4e3c5b5-4dd1-4427-a564-082ddecf9b00">
+
+## <b>Architecture</b>
+
+![image](https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/5651b247-dff4-4437-b805-91398fc12bd7)
+
+<img width="397" alt="image" src="https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/74782b12-af5e-456b-b1c0-ab7f4aef4a4c">
+
+Loss Function			    𝐿𝑜𝑠𝑠=1/𝑛(∑_(𝑖=1)^𝑛▒〖‖𝑥_𝑖−〖𝑥^′〗_𝑖 ‖_2+180/𝜋 arccos⁡(∑_(𝑖=1)^𝑛▒〖(𝑥_𝑖 ) ̂∙〗〗 (〖𝑥^′〗_𝑖 ) ̂))
+![image](https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/09b4d0b9-b00c-4fb5-81ff-351361841adf)
+
