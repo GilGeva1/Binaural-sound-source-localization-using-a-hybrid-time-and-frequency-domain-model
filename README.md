@@ -38,5 +38,5 @@ In conclusion, as the field of sound source localization continues to progress, 
 
 ## <b>ICASSP 2024</b>
 
-[ICASSP_2024 (5).pdf](https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/files/14270370/ICASSP_2024.5.pdf)
+[ICASSP_2024.pdf](https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/files/14270370/ICASSP_2024.5.pdf)
 
