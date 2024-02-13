@@ -16,3 +16,8 @@ This level of accuracy is of paramount importance for a wide range of applicatio
 
 
 In conclusion, as the field of sound source localization continues to progress, this research contributes to a deeper understanding of auditory perception and offers practical applications within healthcare scenarios.
+
+## <b>Recording Methods</b>
+
+<img width="438" alt="image" src="https://github.com/GilGeva1/Binaural-sound-source-localization-using-a-hybrid-time-and-frequency-domain-model/assets/87672997/57325082-83e3-4326-9e9e-826aa50f8a49">
+
