@@ -1,6 +1,6 @@
 # h1
 
-## <b>Read me</b>
+## Read me
 This repository presents research on "Binaural sound source localization using a hybrid time and frequency domain model".
 The study was conducted as part of a thesis for Reichman University in collaboration with IRCAM Institute.
 It has been accepted for presentation at the IEEE conference ICASSP 2024.
