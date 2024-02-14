@@ -3,7 +3,7 @@ This repository presents research on "Binaural sound source localization using a
 The study was conducted as part of a thesis for Reichman University in collaboration with IRCAM Institute.
 It has been accepted for presentation at the IEEE conference ICASSP 2024.
 
-ncluded in this repository are an overview of the research, images demonstrating data collection at Reichman University and IRCAM Institute, and a description of the model architecture. Additionally, HRIR files for each ear of every speaker in IRCAM are provided. Moreover, it contains the thesis document, the presentation used for the thesis defense, the conference paper, and a citation for reference.
+Included in this repository are an overview of the research, images illustrating data collection at Reichman University and IRCAM Institute, and a description of the model architecture. Additionally, HRIR files for each ear of every speaker in IRCAM are provided. Furthermore, there is a .py file containing the code and other tools for data processing. Moreover, it contains the thesis document, the presentation used for the thesis defense, the conference paper, and a citation for reference.
 
 ## <b>Abstract</b>
 
